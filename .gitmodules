@@ -1,0 +1,6 @@
+[submodule "Infra-Frontend"]
+	path = Infra-Frontend
+	url = https://github.com/divyansh-singh010/infra-frontend
+[submodule "Infra-Backend"]
+	path = Infra-Backend
+	url = https://github.com/divyansh-singh010/infra_backend.git
